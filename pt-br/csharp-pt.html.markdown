@@ -336,7 +336,7 @@ on a new line! ""Wow!"", the masses cried";
         }
 
         ///////////////////////////////////////
-        // CLASSES - see definitions at end of file
+        // CLASSES - Veja definições no fim do arquivo
         ///////////////////////////////////////
         public static void Classes()
         {
